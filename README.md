@@ -12,4 +12,4 @@ EnergizeAI is built on Flutter, run on Dart Programming language and powered by 
 
 ## How it Works?
 
-See the demo to how EnergizeAI works on [LinkedIn](https://www.linkedin.com/posts/lucky-ajidoku_energizeai-energizeai-3mttlearningcommunity-activity-7336376892599459840-Yi3a?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJDImEBPK7jpUc9VuP05_1uF8l2Mh8iXa0)
+See the demo to how EnergizeAI works on [LinkedIn](https://www.linkedin.com/m/feed/update/urn:li:activity:7336376892599459840/)
