@@ -1,16 +1,15 @@
 # energize_ai_pv_designer
 
-A new Flutter project.
+EnergizeAI is an AI-powered Solar Photovoltaic systems designer application. It has the ability to design ongrid, offgrid and Hybrid systems.
 
-## Getting Started
+## Purpose of EnergizeAI
 
-This project is a starting point for a Flutter application.
+This project aims to solve the issue of energy efficiency by building solar PV systems that are tailored to individual's energy demands. Users can now build systems that are tailored to their needs. No more under-performing systems.
 
-A few resources to get you started if this is your first Flutter project:
+## Tools Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+EnergizeAI is built on Flutter, run on Dart Programming language and powered by Stable diffusion ultra-text-to-image model.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How it Works?
+
+See the demo to how EnergizeAI works on [LinkedIn]([url](https://www.linkedin.com/posts/lucky-ajidoku_energizeai-energizeai-3mttlearningcommunity-activity-7336376892599459840-Yi3a?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJDImEBPK7jpUc9VuP05_1uF8l2Mh8iXa0))
